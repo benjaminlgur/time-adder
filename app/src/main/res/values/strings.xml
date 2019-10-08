@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Adder2</string>
+    <string name="adder">Adder</string>
+    <string name="num1">num1</string>
+    <string name="num2">num2</string>
+    <string name="add">add</string>
+    <string name="output">output</string>
+    <string name="time1">time1</string>
+    <string name="time2">time2</string>
+</resources>
